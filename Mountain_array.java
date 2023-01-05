@@ -1,4 +1,4 @@
-package com.company;
+package com.leet_solns;
 
 public class Mountain_array {
     public static int peakIndexInMountainArray(int[] arr) {
